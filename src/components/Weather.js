@@ -36,9 +36,8 @@ const Weather = () => {
   }
 
   const setBackground = () => {
-    // const now = new Date();
-    // const hour = now.getHours();
-    const hour = 16;
+    const now = new Date();
+    const hour = now.getHours();
     if (hour <= 7 || hour > 18) {
       return 'blue';
     }
