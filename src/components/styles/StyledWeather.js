@@ -1,12 +1,24 @@
 import styled from 'styled-components';
+import blue from '../../assets/blue.jpg';
+import green from '../../assets/green.jpg';
+import orange from '../../assets/orange.jpg';
 
 const StyledWeather = styled.div`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  min-height: 100vh;
-  background-image: linear-gradient(to bottom, rgba( 0, 0, 0, 0.2), rgba(0, 0, 0, 0.6));
+  background-image: url(
+    ${props => {
+    if (props.bgImage === 'blue') {
+      return blue;
+    }
+    if (props.bgImage === 'green') {
+      return green;
+    }
+    if (props.bgImage === 'orange') {
+      return orange;
+    }
+  }}
+  );
+  background-size: cover;
+  background-position: top center;
 `
 
 export default StyledWeather;
