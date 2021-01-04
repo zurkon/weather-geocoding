@@ -2,7 +2,7 @@
 
 # Weather Geocoding
 
-Weather App made with React :cloud:
+A Weather App made with React :cloud:
 
 <img src="./src/assets/examples/weather.gif" width="400" alt="App Demonstration"/>
 
