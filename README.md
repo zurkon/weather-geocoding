@@ -23,7 +23,7 @@ The forecasting is made using 2 different APIs:
 
 You need to setup `.env` file with the APIs keys as `Environment Variables` to make this project work.
 
-Environment Variables are a little different to config when working with `React`.
+Environment Variables are a little different to config when working with [`React`](https://github.com/facebook/react).
 
 Reading the `Create React App` docs section about [Adding Custom Environment Variables](https://create-react-app.dev/docs/adding-custom-environment-variables/), you find this:
 ```
