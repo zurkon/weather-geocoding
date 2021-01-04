@@ -54,11 +54,11 @@ Environment variables are embedded into the build, meaning anyone can view them 
 
 <div align="center">
 
-<img width="150" src="./src/assets/examples/blue.png"/>
+<img width="200" src="./src/assets/examples/blue.png"/>
  
-<img width="150" src="./src/assets/examples/green.png"/>
+<img width="200" src="./src/assets/examples/green.png"/>
 
-<img width="150" src="./src/assets/examples/orange.png"/>
+<img width="200" src="./src/assets/examples/orange.png"/>
 
 </div>
 
