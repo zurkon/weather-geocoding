@@ -4,7 +4,7 @@
 
 A Weather App made with React :cloud:
 
-<img src="https://raw.githubusercontent.com/Zurkon/RepoAssets/main/gifs/weather.gif" width="400" alt="App Demonstration"/>
+<img src="https://raw.githubusercontent.com/Zurkon/RepoAssets/main/weather-geocoding/weather.gif" width="400" alt="App Demonstration"/>
 
 </div>
 
@@ -54,11 +54,11 @@ Environment variables are embedded into the build, meaning anyone can view them 
 
 <div align="center">
 
-<img width="200" src="https://raw.githubusercontent.com/Zurkon/RepoAssets/main/img/blue.png"/>
+<img width="200" src="https://raw.githubusercontent.com/Zurkon/RepoAssets/main/weather-geocoding/blue.png"/>
  
-<img width="200" src="https://raw.githubusercontent.com/Zurkon/RepoAssets/main/img/green.png"/>
+<img width="200" src="https://raw.githubusercontent.com/Zurkon/RepoAssets/main/weather-geocoding/green.png"/>
 
-<img width="200" src="https://raw.githubusercontent.com/Zurkon/RepoAssets/main/img/orange.png"/>
+<img width="200" src="https://raw.githubusercontent.com/Zurkon/RepoAssets/main/weather-geocoding/orange.png"/>
 
 </div>
 
